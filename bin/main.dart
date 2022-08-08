@@ -1,4 +1,4 @@
-import 'execute/execute_code.dart';
+import 'execute_code/execute_code.dart';
 
 void main(List<String> arguments) {
   ExecuteCode.executeCode();
